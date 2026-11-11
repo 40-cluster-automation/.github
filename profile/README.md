@@ -1,17 +1,25 @@
+<div align="center">
+
+<img src="assets/banner-1280x240.png" alt="Cluster Automation" width="100%" />
+
 # Cluster Automation
 
 Automating cluster lifecycle and operations.
 
-## About this organization
+<img src="https://img.shields.io/badge/owner-gadix--labs-0b2545?style=flat&logo=github" alt="Owner" />
 
-This organization holds repositories for **Cluster Automation** as part of a
-cloud-native platform practice: Kubernetes, GitOps, and AI infrastructure.
+</div>
 
-## Repositories
+## About
 
-Browse the pinned repositories below, or see all repositories in the
-organization's repository list.
+**Cluster Automation** is part of a cloud-native platform practice: Kubernetes, GitOps,
+and AI infrastructure. This organization groups repositories for one clear domain.
 
-## Links
+## Explore
 
-- Owner: [gadix-labs](https://github.com/gadix-labs)
+Browse the repositories below, or see the full list in the organization's
+repository tab.
+
+<div align="center">
+<sub>Maintained by <a href="https://github.com/gadix-labs">gadix-labs</a></sub>
+</div>
